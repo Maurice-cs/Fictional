@@ -1,8 +1,7 @@
-# Fictional is a:
+# Fictional
 
-*  lightweight Project that
-  -organises,
-  -automate,
-  -monitor adminstration tasks for small organisations(environments or labs)
-    
-* It can prove to be reliable, consistent as to reduce repetitive manual work
+* A lightweight Project that
+  1. organises,
+  2. automate,
+  3. and monitor adminstration tasks for small organisations(environments or labs)
+
